@@ -1,0 +1,48 @@
+header {
+	height: 120px;
+	background-color: #93B1C5;
+	padding: 10px;
+}
+nav {
+	height: 50px;
+	background-color: #012A46;
+	padding: 5px;
+	/* margin-top: 8px; */
+	border-bottom: 2px solid #00FF14;
+}
+section#galeria {
+	height: auto;
+	background-color: #012A46;
+	margin-top: 8px;
+	padding: 5px;
+	margin: auto;
+	width: 80%;
+}
+section {
+	background-color: #012A46;
+	/* margin-top: 8px; */
+	padding: 35px;
+	text-align: center;
+	width: 80%;
+	margin: auto;
+}
+footer {
+	background-color: #000;
+	color: #fff;
+	padding: 5px;
+	height: 80px;
+	text-align: center;
+}
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #005B90!important;
+}
+.foto{
+	width: 1000px;
+}
+.botao-submit{
+	margin-top: 5px;
+}
